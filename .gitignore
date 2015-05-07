@@ -1,3 +1,5 @@
 /.project
 /.settings/
 /target/
+/module1/target/
+/module2/target/
