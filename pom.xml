@@ -2,14 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stfciz.test</groupId>
   <artifactId>test-parent</artifactId>
-  <version>0.0.12-SNAPSHOT</version>
+  <version>0.0.12</version>
   <packaging>pom</packaging>
 
   <scm>
     <connection>scm:git:git@github.com:scizeron/repo-test.git</connection>
     <developerConnection>scm:git:git@github.com:scizeron/repo-test.git</developerConnection>
     <url>scm:git:https://github.com/scizeron/repo-test.git</url>
-    <tag>HEAD</tag>
+    <tag>v0.0.12.RELEASE</tag>
   </scm>
 
   <distributionManagement>
